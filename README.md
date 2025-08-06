@@ -1,6 +1,3 @@
-# website
-Bridging business and technology through clear, precise data models. Opinion pieces, patterns, and practical resources on data architecture, modelling, governance, and AI‑driven insights
-
 # Data Lingua
 
 Data Lingua is a knowledge hub and toolkit for modern data practitioners, bridging the gap between business and technology through clear, precise, and scalable data models.
